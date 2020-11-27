@@ -10,4 +10,4 @@ do {
 }
 while (input !== 0);
 
-console.log(total);
+alert(total);
