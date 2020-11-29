@@ -7,7 +7,6 @@ if (message === ADMIN_PASSWORD) {
 }
 else if (message === null) {
     message = "Отменено пользователем!";
-
 }
 else {
     message = "Доступ запрещен, неверный пароль!";
